@@ -14,7 +14,7 @@ monthlyPaymentRate - minimum monthly payment rate as a decimal
 
 For each month, calculate statements on the monthly payment and remaining
 balance. At the end of 12 months, print out the remaining balance. Be sure
-to print out no more than two decimal digits of accuracy
+to print out no more than two decimal digits of accuracy.
 
 """
 #Code
