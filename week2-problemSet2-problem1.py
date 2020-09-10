@@ -28,4 +28,4 @@ while month <= 12:
     balance = updatedBalance
     month += 1
 
-print ("The remaining balance is: " + str(round(balance,2))) 
+print ("The remaining balance is: " + str(round(balance,2)))
