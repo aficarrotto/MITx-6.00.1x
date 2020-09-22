@@ -19,6 +19,8 @@ the guessed letter must be removed from availableLetters (and if they guess a le
 in availableLetters, you should print a message telling them they've already guessed that - so 
 try again!).
 
+"""
+
 def hangman(secretWord):
     '''
     secretWord: string, the secret word to guess.
