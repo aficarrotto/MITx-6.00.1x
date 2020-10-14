@@ -185,9 +185,3 @@ print('Shifted Dictionary:', build.build_shift_dict(2))
 shiftedtext = Message('hello')
 print('Expected Shifted Text: jgnnq')
 print('Shifted Text:', shiftedtext.apply_shift(2))
-
-
-
-
-
-
